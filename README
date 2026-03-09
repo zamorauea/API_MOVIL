@@ -1,0 +1,17 @@
+# Aplica.movil.API
+
+API para la gestión de clientes, equipos, órdenes de servicio y consulta de clima.
+
+---
+
+## Tecnologías utilizadas
+
+- Node.js  
+- Express.js  
+- PostgreSQL  
+- DataLoader (para optimización de consultas y evitar N+1)  
+- Node-Fetch (para consultas externas al API de clima)
+
+---
+
+## Estructura del proyecto
